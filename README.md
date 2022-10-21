@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mkenworthy
+- 👋 Hi, I’m @mkenworthy, an associate astronomer of astrophysics at Leiden Observatory here in the Netherlands.
 - 👀 I’m interested in astronomy, including direct imaging of exoplanets and exoring systems.
